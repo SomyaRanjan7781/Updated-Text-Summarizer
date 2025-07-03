@@ -1,10 +1,11 @@
+Test the project here: https://huggingface.co/spaces/somya-27-04-03/Text-Summarizer-Project
 ---
-title: My App Title
+Title: My App Title
 emoji: 🚀
 colorFrom: red
 colorTo: pink
 sdk: gradio
-sdk_version: 4.14.0
+sdk_version: 5.35.0
 app_file: app.py
 pinned: false
 ---
