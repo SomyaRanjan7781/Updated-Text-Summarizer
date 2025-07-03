@@ -1,0 +1,12 @@
+gradio
+torch
+transformers
+nltk
+beautifulsoup4
+requests
+textstat
+PyPDF2
+pdfplumber
+python-docx
+newspaper3k
+lxml[html_clean]
